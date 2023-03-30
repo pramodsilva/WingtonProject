@@ -1,7 +1,7 @@
 package org.example.dto;
 
 /**
- * The type Child.
+ * The type Child Class.
  */
 public class Child {
     /**
