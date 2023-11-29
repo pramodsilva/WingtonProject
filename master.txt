@@ -1,2 +1,4 @@
 hello java this content is to test git repo.
 this is the first change
+this is the second change
+this is the third change
