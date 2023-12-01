@@ -48,4 +48,6 @@ public class Child {
      * The Age.
      */
     int age;
+
+    private int addressNo;
 }
