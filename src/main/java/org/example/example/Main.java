@@ -9,6 +9,6 @@ public class Main {
         Child child = new Child();
         child.setName("Elephant24 - my first");
         child.setAge(5);
-        System.out.println("This is my age: " + child.getAge() + "\nthis is my name: " + child.getName());
+        System.out.println("This is my age at this : " + child.getAge() + "\nthis is my name: " + child.getName());
     }
 }
